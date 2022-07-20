@@ -1,0 +1,30 @@
+{
+  "pages": [
+    {
+      "id": "1",
+      "components": [],
+      "canonicals": null,
+      "description": null,
+      "disableIndex": null,
+      "name": null,
+      "pageTitle": null,
+      "slug": null,
+      "specifications": [],
+      "type": "INDEX"
+    }
+  ],
+  "components": [],
+  "name": "My Theme",
+  "customData": [],
+  "settings": {
+    "colors": [],
+    "favicon": {
+      "id": null
+    },
+    "fontFamily": {
+      "name": null,
+      "variants": null
+    },
+    "stockPreference": "SHOW_ALL"
+  }
+}
