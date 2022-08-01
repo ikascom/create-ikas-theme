@@ -1,30 +1,276 @@
 {
-  "pages": [
+  "components": [
     {
-      "id": "1",
-      "components": [],
-      "canonicals": null,
-      "description": null,
-      "disableIndex": null,
-      "name": null,
-      "pageTitle": null,
-      "slug": null,
-      "specifications": [],
-      "type": "INDEX"
+      "id": "checkout",
+      "dir": "",
+      "displayName": "",
+      "description": "",
+      "props": [
+        {
+          "id": "93242258-fa88-4fd2-9bfe-c9c2d55989ed",
+          "name": "buttonBgColor",
+          "displayName": "",
+          "description": "",
+          "type": "COLOR",
+          "isRequired": false,
+          "sliderData": {},
+          "groupId": "",
+          "translations": {}
+        },
+        {
+          "id": "654cc790-844e-4c09-8bdb-c0f0441d77e9",
+          "name": "buttonTextColor",
+          "displayName": "",
+          "description": "",
+          "type": "COLOR",
+          "isRequired": false,
+          "sliderData": {},
+          "groupId": "",
+          "translations": {}
+        },
+        {
+          "id": "529da6de-05d1-4d9d-a339-442ffc28a487",
+          "name": "buttonDisabledBgColor",
+          "displayName": "",
+          "description": "",
+          "type": "COLOR",
+          "isRequired": false,
+          "sliderData": {},
+          "groupId": "",
+          "translations": {}
+        },
+        {
+          "id": "af43c020-72e2-4141-9b41-b616204f3b8f",
+          "name": "buttonDisabledTextColor",
+          "displayName": "",
+          "description": "",
+          "type": "COLOR",
+          "isRequired": false,
+          "sliderData": {},
+          "groupId": "",
+          "translations": {}
+        },
+        {
+          "id": "537e200f-125e-488c-82e1-e5c0e46b91c9",
+          "name": "primaryTextColor",
+          "displayName": "",
+          "description": "",
+          "type": "COLOR",
+          "isRequired": false,
+          "sliderData": {},
+          "groupId": "",
+          "translations": {}
+        },
+        {
+          "id": "88335e4b-2b88-4390-be04-dc5315e6969e",
+          "name": "secondaryTextColor",
+          "displayName": "",
+          "description": "",
+          "type": "COLOR",
+          "isRequired": false,
+          "sliderData": {},
+          "groupId": "",
+          "translations": {}
+        },
+        {
+          "id": "0f1cf72f-8b47-40b1-a205-e394133e69ef",
+          "name": "primaryBgColor",
+          "displayName": "",
+          "description": "",
+          "type": "COLOR",
+          "isRequired": false,
+          "sliderData": {},
+          "groupId": "",
+          "translations": {}
+        },
+        {
+          "id": "0533c1ab-7ac8-49ca-ae72-926d551a16ed",
+          "name": "secondaryBgColor",
+          "displayName": "",
+          "description": "",
+          "type": "COLOR",
+          "isRequired": false,
+          "sliderData": {},
+          "groupId": "",
+          "translations": {}
+        },
+        {
+          "id": "5cdd36a5-d41d-4edb-951e-9ae320bea7f0",
+          "name": "borderColor",
+          "displayName": "",
+          "description": "",
+          "type": "COLOR",
+          "isRequired": false,
+          "sliderData": {},
+          "groupId": "",
+          "translations": {}
+        },
+        {
+          "id": "d2e34497-d6c7-43e4-9ac8-73317bf65501",
+          "name": "cardBgColor",
+          "displayName": "",
+          "description": "",
+          "type": "COLOR",
+          "isRequired": false,
+          "sliderData": {},
+          "groupId": "",
+          "translations": {}
+        },
+        {
+          "id": "649da421-b9cb-42db-aa01-b943c006aba5",
+          "name": "errorColor",
+          "displayName": "",
+          "description": "",
+          "type": "COLOR",
+          "isRequired": false,
+          "sliderData": {},
+          "groupId": "",
+          "translations": {}
+        },
+        {
+          "id": "c2b81c40-e9f4-4617-902d-0c9092e80423",
+          "name": "errorLightColor",
+          "displayName": "",
+          "description": "",
+          "type": "COLOR",
+          "isRequired": false,
+          "sliderData": {},
+          "groupId": "",
+          "translations": {}
+        },
+        {
+          "id": "ea5e3ab9-f598-487e-892f-627745600636",
+          "name": "warningColor",
+          "displayName": "",
+          "description": "",
+          "type": "COLOR",
+          "isRequired": false,
+          "sliderData": {},
+          "groupId": "",
+          "translations": {}
+        },
+        {
+          "id": "09a15dc2-e040-4169-be68-9a9778aeb6a0",
+          "name": "warningLightColor",
+          "displayName": "",
+          "description": "",
+          "type": "COLOR",
+          "isRequired": false,
+          "sliderData": {},
+          "groupId": "",
+          "translations": {}
+        },
+        {
+          "id": "f3595812-dcb8-4e1d-9a54-06f0136f5d80",
+          "name": "successColor",
+          "displayName": "",
+          "description": "",
+          "type": "COLOR",
+          "isRequired": false,
+          "sliderData": {},
+          "groupId": "",
+          "translations": {}
+        },
+        {
+          "id": "84fa296c-d26d-4672-afd1-93645164665e",
+          "name": "successLightColor",
+          "displayName": "",
+          "description": "",
+          "type": "COLOR",
+          "isRequired": false,
+          "sliderData": {},
+          "groupId": "",
+          "translations": {}
+        }
+      ],
+      "isHeader": false,
+      "isFooter": false,
+      "translations": {}
+    },
+    {
+      "id": "28626d46-97f8-45e7-9c25-dcb16d618676",
+      "dir": "start",
+      "displayName": "Start",
+      "description": "",
+      "props": [],
+      "isHeader": false,
+      "isFooter": false,
+      "translations": {}
     }
   ],
-  "components": [],
-  "name": "My Theme",
-  "customData": [],
+  "pages": [
+    {
+      "id": "4257a355-ef05-4387-9cd1-3c4a0ac53f89",
+      "name": "",
+      "type": "INDEX",
+      "components": [
+        {
+          "id": "e2903d38-6653-4f8a-b91b-1ce72a00b292",
+          "componentId": "28626d46-97f8-45e7-9c25-dcb16d618676",
+          "propValues": {}
+        }
+      ],
+      "slug": null,
+      "pageTitle": null,
+      "description": null,
+      "specifications": []
+    },
+    {
+      "id": "aa9daf62-60d3-458b-ad91-e09b069bc63c",
+      "name": "",
+      "type": "PRODUCT",
+      "components": [],
+      "slug": null,
+      "pageTitle": null,
+      "description": null,
+      "specifications": []
+    },
+    {
+      "id": "checkout",
+      "name": "",
+      "type": "CHECKOUT",
+      "components": [
+        {
+          "id": "67673ce6-f309-4e2b-8d42-9eff9afa8029",
+          "componentId": "checkout",
+          "propValues": {
+            "buttonBgColor": "#272727",
+            "buttonTextColor": "#FFFFFF",
+            "buttonDisabledBgColor": "#F7F7F9",
+            "buttonDisabledTextColor": "#8A8B94",
+            "primaryTextColor": "#272727",
+            "secondaryTextColor": "#8A8B94",
+            "primaryBgColor": "#FFFFFF",
+            "secondaryBgColor": "#F7F7F9",
+            "borderColor": "#E5E4E9",
+            "cardBgColor": "#F7F7F9",
+            "errorColor": "#FB4E4E",
+            "errorLightColor": "#FCF3F4",
+            "warningColor": "#FFBC1F",
+            "warningLightColor": "#FFFAEE",
+            "successColor": "#2DCA73",
+            "successLightColor": "#F6FFED"
+          }
+        }
+      ],
+      "slug": null,
+      "pageTitle": null,
+      "description": null,
+      "specifications": []
+    }
+  ],
   "settings": {
     "colors": [],
     "favicon": {
       "id": null
     },
+    "stockPreference": "SHOW_ALL",
     "fontFamily": {
       "name": null,
       "variants": null
-    },
-    "stockPreference": "SHOW_ALL"
-  }
+    }
+  },
+  "customData": [],
+  "groups": [],
+  "languages": []
 }
