@@ -7,7 +7,7 @@
       ░▓▓        ▓▓   ▓▓▓   ▓▓   ▓▓▓▓▓▓▓▓  ▓▓▓▓▓▓
 ```
 
-This is a [ikas⚡️](https://ikas.com) cli tool for bootstrap ikas theme [`create-ikas-theme`](https://ikas.dev/docs/intro).
+This is an [ikas⚡️](https://ikas.com) cli tool for bootstrapping an ikas theme [`create-ikas-theme`](https://ikas.dev/docs/intro).
 
 # Getting Started
 

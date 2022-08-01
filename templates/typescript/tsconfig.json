@@ -30,6 +30,7 @@
     "**/*.ts",
     "**/*.tsx",
     "**/typings/global.d.ts",
+    "**/typings/**.ts",
   ],
   "exclude": [
     "node_modules",

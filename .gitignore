@@ -105,3 +105,6 @@ dist
 
 # misc
 .DS_Store
+
+# build output
+build
