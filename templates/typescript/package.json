@@ -11,7 +11,18 @@
     "prettier:all": "npx prettier@^2.1 './**/src/**/*.(ts|tsx|css|scss)' --write"
   },
   "dependencies": {
+    "@ikas/fe-api-client": "^1.0.16",
+    "@ikas/storefront": "^4.0.0-alpha.63",
+    "@ikas/storefront-api": "^4.0.0-alpha.63",
+    "@ikas/storefront-assets": "^4.0.0-alpha.63",
+    "@ikas/storefront-cmd": "^4.0.0-alpha.63",
+    "@ikas/storefront-config": "^4.0.0-alpha.63",
+    "@ikas/storefront-model-functions": "^4.0.0-alpha.63",
+    "@ikas/storefront-models": "^4.0.0-alpha.63",
+    "@ikas/storefront-next": "^4.0.0-alpha.63",
+    "@ikas/storefront-providers": "^4.0.0-alpha.63",
     "next": "12.2.0",
+    "query-string": "^6.13.8",
     "react": "17.0.2",
     "react-dom": "17.0.2",
     "mobx": "^6.1.3",
@@ -22,15 +33,7 @@
     "html-react-parser": "^1.4.0",
     "mobx-react-lite": "^3.1.5",
     "next-transpile-modules": "^9.0.0",
-    "@ikas/storefront": "^4.0.0-alpha.37",
-    "@ikas/storefront-api": "^4.0.0-alpha.37",
-    "@ikas/storefront-assets": "^4.0.0-alpha.37",
-    "@ikas/storefront-cmd": "^4.0.0-alpha.37",
-    "@ikas/storefront-config": "^4.0.0-alpha.37",
-    "@ikas/storefront-model-functions": "^4.0.0-alpha.37",
-    "@ikas/storefront-models": "^4.0.0-alpha.37",
-    "@ikas/storefront-next": "^4.0.0-alpha.37",
-    "@ikas/storefront-providers": "^4.0.0-alpha.37"
+    "ts-essentials": "^7.0.1"
   },
   "devDependencies": {
     "@types/node": "^14.14.6",
