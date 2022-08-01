@@ -1,6 +1,6 @@
 {
   "name": "create-ikas-theme",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "Create ikas theme with one command",
   "main": "index.js",
   "private": false,
