@@ -4,6 +4,9 @@ import { IkasStorefrontConfig } from "@ikas/storefront-config";
 
 import Config from "config.json";
 
+// You can remove this and add your own styles
+import "src/styles/global.css";
+
 IkasStorefrontConfig.init({
   ...Config,
   apiUrl: process.env.NEXT_PUBLIC_GQL_URL,
