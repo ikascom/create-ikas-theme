@@ -10,8 +10,7 @@ import "src/styles/global.css";
 IkasStorefrontConfig.init({
   ...Config,
   apiUrl: process.env.NEXT_PUBLIC_GQL_URL,
-  adminApiUrl: process.env.NEXT_PUBLIC_UPLOAD_GQL_URL,
-  cdnUrl: process.env.NEXT_PUBLIC_IMG_BASE_URL,
+  cdnUrl: process.env.NEXT_PUBLIC_CDN_URL,
 });
 
 const IkasThemeApp: React.FC<AppProps> = (props) => {

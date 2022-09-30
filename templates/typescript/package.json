@@ -11,8 +11,8 @@
     "prettier:all": "npx prettier@^2.1 './**/src/**/*.(ts|tsx|css|scss)' --write"
   },
   "dependencies": {
-    "@ikas/storefront": "^4.1.0",
-    "@ikas/storefront-peer-deps": "^4.1.0"
+    "@ikas/storefront": "^4.0.0",
+    "@ikas/storefront-peer-deps": "^4.0.0"
   },
   "devDependencies": {},
   "resolutions": {

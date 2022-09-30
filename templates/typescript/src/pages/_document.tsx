@@ -23,18 +23,15 @@ class MyDocument extends Document {
           {favicon?.id && (
             <link
               rel="shortcut icon"
-              href={`${process.env.NEXT_PUBLIC_IMG_BASE_URL}images/${favicon.id}/image_180.webp`}
+              href={`${process.env.NEXT_PUBLIC_CDN_URL}images/${favicon.id}/image_180.webp`}
               type="image/webp"
             />
           )}
           <AnalyticsHead />
-          <link
-            rel="preconnect"
-            href={process.env.NEXT_PUBLIC_IMG_BASE_URL}
-          ></link>
+          <link rel="preconnect" href={process.env.NEXT_PUBLIC_CDN_URL}></link>
           <link
             rel="dns-prefetch"
-            href={process.env.NEXT_PUBLIC_IMG_BASE_URL}
+            href={process.env.NEXT_PUBLIC_CDN_URL}
           ></link>
         </Head>
         <body>
